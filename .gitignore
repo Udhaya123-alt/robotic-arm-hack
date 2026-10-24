@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+.venv/
+gesture_control/models/*.task
+gesture_control/recordings/
+*.log
